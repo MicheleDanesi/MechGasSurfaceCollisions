@@ -1,4 +1,3 @@
-%% HARvesting MOLecular ENergy via corrugation-induced asymmetry of momentum transfer 
 %  A simple geometrical model
 
 clear all
